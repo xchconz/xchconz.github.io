@@ -783,6 +783,7 @@
 			text-decoration: none;
 			font-size: 2.8em;
 			font-weight: 600;
+			margin-top: -20px;
 		}
 
 /*********************************************************************************/
@@ -973,9 +974,14 @@
 	.ballon-bgbtm {
 		height: 1.87em;
 	}
-	
+
 	.balloon strong
 	{
 		color: #333 !important;
 	}
 
+/*photos*/
+#ph{
+	height: 400px;
+	width: 100px;
+}
