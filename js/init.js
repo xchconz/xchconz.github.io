@@ -1,8 +1,3 @@
-/*
-	Ex Machina by TEMPLATED
-    templated.co @templatedco
-    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
 skel.init({
 	prefix: 'css/style',
@@ -27,7 +22,7 @@ skel.init({
 		},
 		'1000px': {
 			range: '481-1200',
-			containers: 960
+			containers: 1200
 		}
 	}
 }, {
@@ -51,6 +46,6 @@ skel.init({
 			}
 		}
 	}
-	
-	
+
+
 });
